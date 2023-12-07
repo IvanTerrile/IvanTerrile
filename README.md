@@ -14,3 +14,32 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Hello! 👋 I'm Ivan
+
+🎓 Currently a Robotics Engineering student at the University of Pisa
+
+👨‍💻 Bachelor's degree in Computer Engineering
+
+## 💬 About Me
+- Robotics Engineering student at the University of Genoa
+- Holds a Bachelor's degree in Computer Engineering
+- Frontend Developer
+
+## 📅 Hobbies
+- Learning new things
+- Watching anime and TV shows
+- Working out
+- Playing video games
+- Etc...
+
+## 💻 Current Project
+- University 🙂
+
+## 🤖 My Stats
+![My GitHub Stats](<insert-your-github-stats-link>)
+[![Top Languages](<insert-your-top-langs-link>)](<insert-your-github-profile-link>)
+
+## 🔨 Technologies
+- Top Languages: [Insert-Your-Top-Languages]
+- Other technologies I work with: [Insert-Technologies]
+
