@@ -1,19 +1,4 @@
 ### Hi there 👋
-
-<!--
-**Ivanterry00/Ivanterry00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 # Hello! 👋 I'm Ivan
 
 🎓 Currently a Robotics Engineering student at the University of Genoa
@@ -21,8 +6,7 @@ Here are some ideas to get you started:
 👨‍💻 Bachelor's degree in Computer Engineering
 
 ## 💬 About Me
-- Robotics Engineering student at the University of Genoa
-- Holds a Bachelor's degree in Computer Engineering
+- Enjoy little things
 
 ## 📅 Hobbies
 - Watching films and TV series
@@ -32,7 +16,7 @@ Here are some ideas to get you started:
 ## 💻 Current Project
 - Master's thesis at Heidelberg University
 
-### :hammer_and_wrench: Languages and Tools :
+## :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
@@ -41,7 +25,9 @@ Here are some ideas to get you started:
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="Git" **alt="Git" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/ros/ros-original.svg" title="Ros" **alt="Ros" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="Github" **alt="Github" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/ros/ros-original-wordmark.svg" title="Ros" **alt="Ros" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" **alt="Python" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" title="C" **alt="C" width="40" height="40"/>
 </div>
 
