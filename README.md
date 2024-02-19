@@ -16,30 +16,31 @@ Here are some ideas to get you started:
 -->
 # Hello! 👋 I'm Ivan
 
-🎓 Currently a Robotics Engineering student at the University of Pisa
+🎓 Currently a Robotics Engineering student at the University of Genoa
 
 👨‍💻 Bachelor's degree in Computer Engineering
 
 ## 💬 About Me
 - Robotics Engineering student at the University of Genoa
 - Holds a Bachelor's degree in Computer Engineering
-- Frontend Developer
 
 ## 📅 Hobbies
+- Watching films and TV series
+- Do sports 
 - Learning new things
-- Watching anime and TV shows
-- Working out
-- Playing video games
-- Etc...
 
 ## 💻 Current Project
-- University 🙂
+- Master's thesis at Heidelberg University
 
-## 🤖 My Stats
-![My GitHub Stats](<insert-your-github-stats-link>)
-[![Top Languages](<insert-your-top-langs-link>)](<insert-your-github-profile-link>)
-
-## 🔨 Technologies
-- Top Languages: [Insert-Your-Top-Languages]
-- Other technologies I work with: [Insert-Technologies]
+### :hammer_and_wrench: Languages and Tools :
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/gatsby/gatsby-original.svg" title="Gatsby"  alt="Gatsby" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+</div>
 
