@@ -1,8 +1,6 @@
 # Hi there 👋, I'm Ivan
 
-🎓 Currently a Robotics Engineering student at the University of Genoa
-
-👨‍💻 Bachelor's degree in Computer Engineering
+🎓 Master's graduate in Robotics Engineering and Bachelor's graduate in Computer Engineering.
 
 ## 💬 About Me
 - Enjoy little things
