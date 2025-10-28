@@ -32,5 +32,6 @@
 </div>
 
 ## 🔥 My Stats: 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Ivanterry00&theme=dark)](https://git.io/streak-stats)
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=IvanTerrile&count_private=true&theme=tokyonight&showicons=true)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=IvanTerrile&langs_count=5&theme=tokyonight)]()
 
