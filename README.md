@@ -1,6 +1,8 @@
 # Hi there 👋, I'm Ivan
 
-🎓 Master's graduate in Robotics Engineering and Bachelor's graduate in Computer Engineering.
+- 💼 Currently working as a software developer
+- 🎓 Master's graduate in Robotics Engineering at the [University of Genoa](https://unige.it/)
+- 🎓 Bachelor's graduate in Computer Engineering at the [University of Genoa](https://unige.it/)
 
 ## 💬 About Me
 - Enjoy little things
