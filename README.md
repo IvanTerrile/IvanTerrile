@@ -4,16 +4,9 @@
 - 🎓 Master's graduate in Robotics Engineering at the [University of Genoa](https://unige.it/)
 - 🎓 Bachelor's graduate in Computer Engineering at the [University of Genoa](https://unige.it/)
 
-## 💬 About Me
-- Enjoy little things
-
 ## 📅 Hobbies
+- Climbing & calisthenics
 - Watching films and TV series
-- Do sports 
-- Learning new things
-
-## 💻 Current Project
-- Master's thesis at Heidelberg University
 
 ## :hammer_and_wrench: Languages and Tools :
 <div>
@@ -33,5 +26,5 @@
 </div>
 
 ## 🔥 My Stats: 
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=IvanTerrile&langs_count=5&theme=tokyonight)]()
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IvanTerrile&layout=donut)](https://github.com/IvanTerrile/github-readme-stats)
 
