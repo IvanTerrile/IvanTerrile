@@ -4,9 +4,6 @@
 - 🎓 Master's graduate in Robotics Engineering at the [University of Genoa](https://unige.it/)
 - 🎓 Bachelor's graduate in Computer Engineering at the [University of Genoa](https://unige.it/)
 
-## 📅 Hobbies
-- Climbing & calisthenics
-- Watching films and TV series
 
 ## :hammer_and_wrench: Languages and Tools :
 <div>
